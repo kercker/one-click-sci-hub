@@ -2,7 +2,7 @@ url = document.location;
 a = document.createElement('a');
 text = document.createTextNode('Sci-Hub');
 a.appendChild(text);
-a.setAttribute('href', 'https://sci-hub.cc/' + url);
+a.setAttribute('href', 'https://sci-hub.tw/' + url);
 a.setAttribute('target', '_blank')
 
 span=document.createElement('span');
